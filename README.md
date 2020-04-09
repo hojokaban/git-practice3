@@ -6,3 +6,5 @@ Editing in Github!
 Editing in the local repositoryyyy:)
 
 Editing in Github again for the next practice
+
+I found it difficult to master git in one day, but it is still fun to learn new things.
